@@ -10,6 +10,7 @@ Spargel: DI, it, born whole 42467.05.09, pilot of the ship of the same name
 Nom: venere, she, AI liaison
 Nek: venere, she
 Dion: human, she, scientist who theorized the existence of a specific creatable time loop.
+Cherubee: cathuman, she, 
 
 # What
 
