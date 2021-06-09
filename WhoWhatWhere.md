@@ -18,6 +18,7 @@ JITSARF: Just In Time Search And Rescue Foundation
 Venere: An alien race, six legs, four eyes, feathered
 Ra'zk: An alien race, bipedal, thick gray hairless skin.
 Link: Human Machine Interface that allows deep immersion via direct connection to various parts of the central nervous system.
+lazchiv: handheld precision laser cutting device
 
 # Where
 
@@ -43,3 +44,7 @@ Example math for 200 ly, one way, decelerating halfway: https://www.wolframalpha
 Good reads:
 * https://math.ucr.edu/home/baez/physics/Relativity/SR/Rocket/rocket.html
 * https://en.wikipedia.org/wiki/Space_travel_using_constant_acceleration#Ship_reference_frame
+
+## Stuff around Sol
+
+* Everything in 10 parsecs https://gruze.org/fly_10pc/ 
