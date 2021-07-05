@@ -2,6 +2,12 @@ The source of the JITSARF stories lives and evolves here.
 
 It is a collection of hard science fiction stories with HFY elements, all within the same universe.
 
+The divergence from full hard scifi is that you can send messages back in time as long as they only affect your own future and not your past.
+
+# WARNING
+
+Enter the WIP directory on your own risk. It contains enormous spoilers for the overarching story.
+
 # Contributions
 
 Contributions of any kind are very welcome. Some examples (though I may be missing some important ones, so just ask):
