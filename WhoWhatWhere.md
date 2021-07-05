@@ -29,7 +29,7 @@ Krümel System: A brown dwarf with a single gas giant in the habitable zone. 200
 
 ## Planets
 
-Lauch: the only rocky planet in Keks system. Home to the Ra'zk. In the habitable zone. The first already inhabited planet that any Venere travelled to.
+Porre: the only rocky planet in Keks system. Home to the Ra'zk. In the habitable zone. The first already inhabited planet that any Venere travelled to.
 
 ## Places
 
